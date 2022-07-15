@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://layanankami.sukabumikab.go.id">
-    <img width=100% src="logo/logo.svg" height="150">
+    <img width=100% src="logo.svg" height="150">
   </a>
 </p>
 
