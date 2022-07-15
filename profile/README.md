@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://layanankami.sukabumikab.go.id">
-    <img width=100% src="/spbe-sukabumi/.github/raw/main/logo.svg" height="150">
+    <img width=100% src="profile/logo.svg" height="150">
   </a>
 </p>
 
